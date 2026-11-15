@@ -6,18 +6,18 @@ PackageVersion: 1.0.70
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: Chessament
-ReleaseDate: 2026-11-13
+ReleaseDate: 2026-11-14
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-977-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 09BD263F224160C9EE277CFB4C89D2A3BAB1731631A0A389F0481FE6A6887C7B
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-986-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 5A9D958ED193FE7560EF9DB38AA7B91F36C34EF8D13DF270DE22BA78CCA0A5BF
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-977-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 09BD263F224160C9EE277CFB4C89D2A3BAB1731631A0A389F0481FE6A6887C7B
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-986-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 5A9D958ED193FE7560EF9DB38AA7B91F36C34EF8D13DF270DE22BA78CCA0A5BF
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
