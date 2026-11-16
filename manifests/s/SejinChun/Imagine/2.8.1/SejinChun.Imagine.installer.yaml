@@ -71,13 +71,13 @@ ProductCode: Imagine
 ReleaseDate: 2026-11-14
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/nyam1003/imagine/raw/22a256be3778d04947bbd61f7e6cafa80511522d/Imagine_2.8.1_Unicode_Full.exe
-  InstallerSha256: 55C9108900CBCE269AE03262DA56D5B3E5DEBD18B03D8FFAADBC650744E6F1D7
+  InstallerUrl: https://github.com/nyam1003/imagine/raw/46e906472156f9b1cf9c9890f6d9f3be3d17377c/Imagine_2.8.1_Unicode_Full.exe
+  InstallerSha256: C156F45E9CA37EC19F38016E89918D375EA47BF9A3586FE7624220D28D685F71
 - Architecture: x64
-  InstallerUrl: https://github.com/nyam1003/imagine/raw/22a256be3778d04947bbd61f7e6cafa80511522d/x64/Imagine_2.8.1_x64_Unicode_Full.exe
-  InstallerSha256: BE4C18EC554C9FD87B1ABE02E2081521A1E6CA657CF1F322A1413E7F1116C8A4
+  InstallerUrl: https://github.com/nyam1003/imagine/raw/46e906472156f9b1cf9c9890f6d9f3be3d17377c/x64/Imagine_2.8.1_x64_Unicode_Full.exe
+  InstallerSha256: CC40BA7C6246E82DBFA31F8797A70B94776D822FB22C718EC0DE52A6223138E4
 - Architecture: arm64
-  InstallerUrl: https://github.com/nyam1003/imagine/raw/22a256be3778d04947bbd61f7e6cafa80511522d/arm64/Imagine_2.8.1_arm64_Unicode_Full.exe
-  InstallerSha256: A2CD2B48501827A0DE262604C8B39187654EFC7DB51421BF667333B5E2922CE9
+  InstallerUrl: https://github.com/nyam1003/imagine/raw/46e906472156f9b1cf9c9890f6d9f3be3d17377c/arm64/Imagine_2.8.1_arm64_Unicode_Full.exe
+  InstallerSha256: 84C955F8EF99C1531B5D607DA39980DE668A841153059479484AE28C3C7DBAA1
 ManifestType: installer
 ManifestVersion: 1.28.0
